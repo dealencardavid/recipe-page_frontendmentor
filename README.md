@@ -24,7 +24,7 @@ Took me some time to get the table right and I still think css organization and 
 ### Links
 
 - Solution URL: [Recipe Page - GitHub Repo](https://github.com/dealencardavid/recipe-page_frontendmentor)
-- Live Site URL: [Recipe Page Live](https://dealencardavid.github.io/blog-preview-card_frontendmentor/)
+- Live Site URL: [Recipe Page Live](https://dealencardavid.github.io/recipe-page_frontendmentor/)
 
 ## My process
 
